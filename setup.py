@@ -37,7 +37,7 @@ setup(
         'flask==1.0.2',
         'flask-socketio==3.0.2',
         'oauth2client==4.1.3',
-        'eventlet==0.24.1',
+        'eventlet==0.31.0',
         'flask-compress==1.4.0',
         'flask-cors==3.0.8',
         'mysql-connector-python-rf==2.2.2',
